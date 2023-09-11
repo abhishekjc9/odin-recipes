@@ -1,0 +1,22 @@
+h1 {
+    background-color: darksalmon;
+    color: white;
+    font-size: 44px;
+    text-align: Center;
+    font-weight: bold;
+}
+
+ul {
+    text-align: center;
+}
+
+a:hover {
+    color: darksalmon;
+}
+
+a {
+    font-size: 28px;
+    padding: 10px;
+    color: darkkhaki;
+    font-weight: bold;
+}
