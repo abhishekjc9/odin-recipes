@@ -6,6 +6,19 @@ h1 {
     font-weight: bold;
 }
 
+div {
+    width: 400px;
+    margin: 0 auto;
+    background-color: beige;
+    border: 5px double salmon;
+}
+
+h2 {
+    color: darkkhaki;
+    font-size: 36px;
+    text-align: center;
+}
+
 ul {
     text-align: center;
 }
@@ -15,7 +28,7 @@ a:hover {
 }
 
 a {
-    font-size: 28px;
+    font-size: 22px;
     padding: 10px;
     color: darkkhaki;
     font-weight: bold;

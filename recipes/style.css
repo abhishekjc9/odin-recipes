@@ -16,7 +16,19 @@ img {
 
 h2, p, h3, li {
     font-family: Georgia, 'Times New Roman', Times, serif;
-} 
+}
+
+.description-card,
+.ingredients-card,
+.directions-card {
+    width: 800px;
+    margin: 8px auto;
+    padding: 8px 16px;
+}
+
+.description-card {
+    background-color: lightblue;
+}
 
 h2 {
     font-size: 32px;
@@ -27,6 +39,7 @@ h2 {
 p {
     font-size: 22px;
     font-style: italic;
+    margin: 16px;
 }
 
 h3 {
@@ -36,6 +49,13 @@ h3 {
 }
 
 li {
-    text-align: center;
     font-size: 18px;
+}
+
+.ingredients-card {
+    background-color: lightcoral;
+}
+
+.directions-card {
+    background-color: bisque;
 }
